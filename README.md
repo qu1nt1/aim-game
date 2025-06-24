@@ -11,7 +11,7 @@
 - **Teclas `Z` ou `X`:** Funcionam como um clique do mouse para acertar as notas.
 - **Tecla `Escape`:** Pausa o jogo e retorna ao menu principal.
 
-### Instalação e Execução Local
+## Instalação e Execução Local
 
 Para rodar o projeto na sua máquina local, siga os passos abaixo.
 
